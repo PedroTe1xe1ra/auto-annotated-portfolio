@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     text: >+
       ### Olá, eu sou um aluno do curso de Gestão e Programação de Sistemas
       Informáticos.
