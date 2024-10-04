@@ -411,6 +411,6 @@ backgroundImage:
   url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: top
-  backgroundRepeat: repeat
+  backgroundRepeat: no-repeat
   opacity: 100
 ---
