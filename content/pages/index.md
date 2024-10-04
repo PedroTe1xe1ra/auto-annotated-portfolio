@@ -115,7 +115,7 @@ sections:
         label: Viewjs
         url: ''
       - type: Label
-        label: Netlify
+        label: Node js
         url: ''
       - type: Label
         label: Pancakes
