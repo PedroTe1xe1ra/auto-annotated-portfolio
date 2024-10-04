@@ -129,6 +129,9 @@ sections:
       - type: Label
         label: Python
         url: ''
+      - type: Label
+        label: MySQL
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
