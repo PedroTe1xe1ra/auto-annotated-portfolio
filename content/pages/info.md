@@ -64,7 +64,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/python.webp
+        url: /images/a397c318927d52f6bdb974221e57a7ce.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
