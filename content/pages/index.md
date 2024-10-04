@@ -4,7 +4,7 @@ title: Home
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/pexels-adrien-olichon-1257089-2387793.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
