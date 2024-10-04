@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-c
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-adrien-olichon-1257089-2387793.jpg
