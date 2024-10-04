@@ -132,7 +132,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/pedro-teixeira-748652262/'
         styles:
           self:
             textAlign: left
