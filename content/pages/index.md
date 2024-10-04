@@ -112,7 +112,7 @@ sections:
         label: HTML5
         url: ''
       - type: Label
-        label: Next.js
+        label: Viewjs
         url: ''
       - type: Label
         label: Netlify
