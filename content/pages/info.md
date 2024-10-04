@@ -58,13 +58,13 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/a397c318927d52f6bdb974221e57a7ce.png
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
         url: /images/logo2.svg
         altText: Logo two
         caption: Logo two
+      - type: ImageBlock
+        url: /images/a397c318927d52f6bdb974221e57a7ce.png
+        altText: Logo one
+        caption: Logo one
       - type: ImageBlock
         url: /images/logo3.svg
         altText: Logo three
