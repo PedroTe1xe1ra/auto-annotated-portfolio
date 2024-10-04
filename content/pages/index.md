@@ -106,7 +106,7 @@ sections:
         label: SQLServer
         url: ''
       - type: Label
-        label: React
+        label: C#
         url: ''
       - type: Label
         label: Microsoft Office
