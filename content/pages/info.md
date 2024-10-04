@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/PedroTe1xe1ra'
         styles:
           self:
             textAlign: left
