@@ -4,7 +4,7 @@ title: About
 colors: colors-c
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-d
     backgroundSize: inset
     text: >+
       ### Olá, eu sou um aluno do curso de Gestão e Programação de Sistemas
