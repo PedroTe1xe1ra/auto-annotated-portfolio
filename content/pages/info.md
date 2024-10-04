@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-colors: colors-b
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-tuesday-temptation-190692-3780104.jpg
