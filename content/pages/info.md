@@ -83,7 +83,7 @@ sections:
         caption: Caption of the image
         elementId: ''
     spacing: 3
-    columns: 7
+    columns: 6
     aspectRatio: auto
     showCaption: false
     enableHover: false
