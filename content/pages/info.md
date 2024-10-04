@@ -412,5 +412,5 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 90
+  opacity: 95
 ---
