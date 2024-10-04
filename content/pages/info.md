@@ -2,13 +2,6 @@
 type: PageLayout
 title: About
 colors: colors-c
-backgroundImage:
-  type: BackgroundImage
-  url: /images/pexels-tuesday-temptation-190692-3780104.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 90
 sections:
   - elementId: ''
     colors: colors-f
