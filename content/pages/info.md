@@ -55,7 +55,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Linguagens que Trabalhei:'
     images:
       - type: ImageBlock
         url: /images/a397c318927d52f6bdb974221e57a7ce.png
