@@ -12,7 +12,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/VIT_2981.JPG
       altText: Hero image
     styles:
       self:
