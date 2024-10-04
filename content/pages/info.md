@@ -47,6 +47,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     subtitle: ''
+    title: Pedro Teixeira
   - type: DividerSection
     styles:
       self:
