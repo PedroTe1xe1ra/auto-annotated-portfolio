@@ -408,7 +408,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/pexels-tuesday-temptation-190692-3780104.jpg
   backgroundSize: auto
   backgroundPosition: bottom
   backgroundRepeat: no-repeat
