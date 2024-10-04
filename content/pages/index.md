@@ -109,7 +109,7 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: HTML5
         url: ''
       - type: Label
         label: Next.js
