@@ -4,7 +4,7 @@ title: Home
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/pexels-adrien-olichon-1257089-2387793.jpg
+  url: /images/pexels-anniroenkae-2693212.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
