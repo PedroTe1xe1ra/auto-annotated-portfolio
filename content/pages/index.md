@@ -100,7 +100,7 @@ sections:
     subtitle: Projects
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: Linguagens
     items:
       - type: Label
         label: SQLServer
