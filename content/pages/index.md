@@ -115,7 +115,7 @@ sections:
         label: Vue.js
         url: ''
       - type: Label
-        label: Node js
+        label: Node.js
         url: ''
       - type: Label
         label: Pancakes
