@@ -409,7 +409,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-tuesday-temptation-190692-3780104.jpg
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 100
