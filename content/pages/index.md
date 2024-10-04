@@ -124,7 +124,7 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: Swift
+        label: PHP
         url: ''
     colors: colors-f
     elementId: ''
