@@ -118,7 +118,7 @@ sections:
         label: Node.js
         url: ''
       - type: Label
-        label: Pancakes
+        label: Java
         url: ''
       - type: Label
         label: C++
