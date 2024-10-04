@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-d
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-anniroenkae-2693212.jpg
