@@ -7,7 +7,7 @@ client: Awesome client
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/smartmockups_m1us6cjt.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
