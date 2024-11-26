@@ -78,7 +78,7 @@ sections:
         label: HTML5
         url: ''
       - type: Label
-        label: Vue.js
+        label: View.js
         url: ''
       - type: Label
         label: Node.js
