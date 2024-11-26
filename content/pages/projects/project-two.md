@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Loja Online
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
