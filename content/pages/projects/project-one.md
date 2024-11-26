@@ -4,7 +4,7 @@ title: Ajax Crud
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: ''
+description: Neste Projeto tive de desenvolver
 featuredImage:
   type: ImageBlock
   url: /images/smartmockups_m3xwkzhm.jpg
