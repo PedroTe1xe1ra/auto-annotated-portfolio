@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Loja Online
-colors: colors-e
+colors: colors-a
 date: '2021-12-20'
 client: ''
 description: ''
