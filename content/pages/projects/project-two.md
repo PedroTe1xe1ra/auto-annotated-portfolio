@@ -13,5 +13,12 @@ media:
   type: ImageBlock
   url: /images/smartmockups_m1ut2ldq.jpg
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 https\://drive.google.com/file/d/1GgwCSuD9j\_2g7llX88H5egAG8ri6own6/view
