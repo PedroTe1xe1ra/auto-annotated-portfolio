@@ -14,5 +14,5 @@ media:
   url: /images/smartmockups_m1us6cjt.jpg
   altText: Project image
 ---
-https\://drive.google.com/file/d/1GgwCSuD9j\_2g7llX88H5egAG8ri6own6/view?usp=sharing
+https\://drive.google.com/file/d/1UI6Z-rRcfq0WSdZaouVljemwvDNqiTyE/view
 
