@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Ajax Crud
 colors: colors-a
-date: '0001-04-30'
+date: ''
 client: ''
 description: ''
 featuredImage:
