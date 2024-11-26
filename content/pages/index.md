@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Pedro Teixeira
     subtitle: >-
       Sou estudante do curso técnico de Gestão e Programação de Sistemas
       Informáticos. Frequento agora o meu último ano de curso onde adquiri
